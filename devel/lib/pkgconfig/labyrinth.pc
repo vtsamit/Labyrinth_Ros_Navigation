@@ -1,0 +1,8 @@
+prefix=/home/siddharthqr/round1/devel/.private/labyrinth
+
+Name: labyrinth
+Description: Description of labyrinth
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,6 @@
+navigation/rotate_recovery
+/home/siddharthqr/round1/devel/.private/rotate_recovery/cmake.lock /home/siddharthqr/round1/devel/./cmake.lock
+/home/siddharthqr/round1/devel/.private/rotate_recovery/share/rotate_recovery/cmake/rotate_recoveryConfig-version.cmake /home/siddharthqr/round1/devel/share/rotate_recovery/cmake/rotate_recoveryConfig-version.cmake
+/home/siddharthqr/round1/devel/.private/rotate_recovery/share/rotate_recovery/cmake/rotate_recoveryConfig.cmake /home/siddharthqr/round1/devel/share/rotate_recovery/cmake/rotate_recoveryConfig.cmake
+/home/siddharthqr/round1/devel/.private/rotate_recovery/lib/librotate_recovery.so /home/siddharthqr/round1/devel/lib/librotate_recovery.so
+/home/siddharthqr/round1/devel/.private/rotate_recovery/lib/pkgconfig/rotate_recovery.pc /home/siddharthqr/round1/devel/lib/pkgconfig/rotate_recovery.pc

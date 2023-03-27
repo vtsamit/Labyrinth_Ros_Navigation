@@ -1,0 +1,7 @@
+Symlinking /home/siddharthqr/round1/devel/share/map_server/cmake/map_serverConfig-version.cmake
+Symlinking /home/siddharthqr/round1/devel/share/map_server/cmake/map_serverConfig.cmake
+Symlinking /home/siddharthqr/round1/devel/lib/libmap_server_image_loader.so
+Symlinking /home/siddharthqr/round1/devel/lib/map_server/map_saver
+Symlinking /home/siddharthqr/round1/devel/lib/map_server/map_server
+Symlinking /home/siddharthqr/round1/devel/lib/map_server/rtest
+Symlinking /home/siddharthqr/round1/devel/lib/pkgconfig/map_server.pc

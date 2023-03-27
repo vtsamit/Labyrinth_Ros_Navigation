@@ -1,0 +1,6 @@
+devel_space: /home/siddharthqr/round1/devel
+install: false
+install_space: /home/siddharthqr/round1/install
+profile: default
+source_space: /home/siddharthqr/round1/src
+workspace: /home/siddharthqr/round1

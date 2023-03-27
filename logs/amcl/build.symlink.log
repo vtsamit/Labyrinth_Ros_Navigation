@@ -1,0 +1,14 @@
+Symlinking /home/siddharthqr/round1/devel/share/amcl/cmake/amclConfig-version.cmake
+Symlinking /home/siddharthqr/round1/devel/share/amcl/cmake/amclConfig.cmake
+Symlinking /home/siddharthqr/round1/devel/share/amcl/docs/AMCLConfig-usage.dox
+Symlinking /home/siddharthqr/round1/devel/share/amcl/docs/AMCLConfig.wikidoc
+Symlinking /home/siddharthqr/round1/devel/share/amcl/docs/AMCLConfig.dox
+Symlinking /home/siddharthqr/round1/devel/include/amcl/AMCLConfig.h
+Symlinking /home/siddharthqr/round1/devel/lib/libamcl_sensors.so
+Symlinking /home/siddharthqr/round1/devel/lib/libamcl_pf.so
+Symlinking /home/siddharthqr/round1/devel/lib/libamcl_map.so
+Symlinking /home/siddharthqr/round1/devel/lib/amcl/amcl
+Symlinking /home/siddharthqr/round1/devel/lib/pkgconfig/amcl.pc
+Symlinking /home/siddharthqr/round1/devel/lib/python3/dist-packages/amcl/__init__.py
+Symlinking /home/siddharthqr/round1/devel/lib/python3/dist-packages/amcl/cfg/__init__.py
+Symlinking /home/siddharthqr/round1/devel/lib/python3/dist-packages/amcl/cfg/AMCLConfig.py
